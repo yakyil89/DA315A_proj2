@@ -48,7 +48,6 @@ namespace _15_spelet_av_Yakup_Yildiz
             Content.RootDirectory = "Content";
         }
 
-
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
         /// This is where it can query for any required services and load any non-graphic
@@ -140,10 +139,10 @@ namespace _15_spelet_av_Yakup_Yildiz
                 timer = 0;
             }
 
-            foreach (Square t in tiles)
-            {
-                t.Update();
-            }
+            //foreach (Square t in tiles)
+            //{
+            //    t.Update();
+            //}
 
             //for (int column = 0; column < tiles.GetLength(0); column++)
             //{
