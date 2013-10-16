@@ -1,0 +1,14 @@
+c:\users\spellabbet\documents\visual studio 2010\Projects\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\Content\cactaur.xnb
+c:\users\spellabbet\documents\visual studio 2010\Projects\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\15_spelet_av_Yakup_Yildiz.exe
+c:\users\spellabbet\documents\visual studio 2010\Projects\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\15_spelet_av_Yakup_Yildiz.pdb
+c:\users\spellabbet\documents\visual studio 2010\Projects\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\obj\x86\Debug\15_spelet_av_Yakup_Yildiz.csprojResolveAssemblyReference.cache
+c:\users\spellabbet\documents\visual studio 2010\Projects\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\spellabbet\documents\visual studio 2010\Projects\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\obj\x86\Debug\15_spelet_av_Yakup_Yildiz.exe
+c:\users\spellabbet\documents\visual studio 2010\Projects\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\obj\x86\Debug\15_spelet_av_Yakup_Yildiz.pdb
+C:\Users\Coldii\Dropbox\Programmering\Projekt 2\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\Content\cactaur.xnb
+C:\Users\Coldii\Dropbox\Programmering\Projekt 2\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\15_spelet_av_Yakup_Yildiz.exe
+C:\Users\Coldii\Dropbox\Programmering\Projekt 2\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\15_spelet_av_Yakup_Yildiz.pdb
+C:\Users\Coldii\Dropbox\Programmering\Projekt 2\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Coldii\Dropbox\Programmering\Projekt 2\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Coldii\Dropbox\Programmering\Projekt 2\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\obj\x86\Debug\15_spelet_av_Yakup_Yildiz.exe
+C:\Users\Coldii\Dropbox\Programmering\Projekt 2\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\obj\x86\Debug\15_spelet_av_Yakup_Yildiz.pdb
